@@ -1,0 +1,17 @@
+En caso de error de directorios en loopback
+
+
+
+sudo npm install strong-supervisor
+
+
+
+**********
+http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/
+**********
+
+
+
+http://mean.expert/2016/04/13/loopback-stats-mixin/
+
+https://loopback.io/doc/en/lb2/Connecting-to-MongoDB.html#2-install-the-loopback-mongodb-connector

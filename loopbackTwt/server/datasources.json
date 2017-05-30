@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "twtDB": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "twtDB",
+    "password": "",
+    "name": "twtDB",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
